@@ -1,6 +1,6 @@
 #include <stdarg.h>
 #include <stdlib.h>
-#include "holberton.h"
+#include "main.h"
 #include <unistd.h>
 /**
  * _printf - Behold, the magic function that should print many things to stdout
